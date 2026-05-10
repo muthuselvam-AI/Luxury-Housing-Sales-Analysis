@@ -36,11 +36,16 @@ Performed SQL queries for analysis
 
 #### Built Power BI dashboard with:
 
-Booking trends
-Builder performance
-Market analysis
-Booking conversion insights
-Geographical analysis
+Booking trends  
+
+Builder performance  
+
+Market analysis  
+
+Booking conversion insights  
+
+Geographical analysis  
+
 
 ## Key Insights
 Certain micro-markets generate higher luxury housing revenue.
