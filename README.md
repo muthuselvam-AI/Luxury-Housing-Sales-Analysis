@@ -15,7 +15,7 @@ Matplotlib
 Seaborn
 
 ## Project Workflow
-1. Data Cleaning & Preprocessing
+### 1. Data Cleaning & Preprocessing
 Removed duplicates
 Handled missing values
 Cleaned inconsistent formats
