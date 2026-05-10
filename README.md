@@ -48,10 +48,14 @@ Geographical analysis
 
 
 ## Key Insights
-Certain micro-markets generate higher luxury housing revenue.
-Higher amenity scores improve booking conversion rates.
-3BHK configurations have the highest demand.
-Digital sales channels contribute more successful bookings.
+Certain micro-markets generate higher luxury housing revenue.  
+
+Higher amenity scores improve booking conversion rates.  
+
+3BHK configurations have the highest demand.  
+
+Digital sales channels contribute more successful bookings.  
+
 
 ## Files Included
 data/                  -> Dataset files
