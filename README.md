@@ -58,12 +58,18 @@ Digital sales channels contribute more successful bookings.
 
 
 ## Files Included
-data/                  -> Dataset files
-notebooks/             -> Jupyter Notebook
-sql/                   -> SQL queries
-dashboard/             -> Power BI dashboard
-luxury_housing.db      -> SQLite database
-README.md              -> Project documentation
+data/                  -> Dataset files  
+
+notebooks/             -> Jupyter Notebook  
+
+sql/                   -> SQL queries  
+
+dashboard/             -> Power BI dashboard  
+
+luxury_housing.db      -> SQLite database  
+
+README.md              -> Project documentation  
+
 
 ## Conclusion
 
