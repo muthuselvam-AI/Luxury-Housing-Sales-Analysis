@@ -21,18 +21,18 @@ Handled missing values
 Cleaned inconsistent formats
 Normalized text fields
 
-3. Feature Engineering
+### 2. Feature Engineering
 
 Created new features such as:
 Price_per_Sqft
 Booking_Flag
 Quarter_Number
 
-3. Database Integration
+### 3. Database Integration
 Loaded cleaned data into SQLite database
 Performed SQL queries for analysis
 
-4. Data Visualization
+### 4. Data Visualization
 
 Built Power BI dashboard with:
 
