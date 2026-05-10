@@ -34,7 +34,7 @@ Performed SQL queries for analysis
 
 ### 4. Data Visualization
 
-Built Power BI dashboard with:
+#### Built Power BI dashboard with:
 
 Booking trends
 Builder performance
