@@ -49,18 +49,25 @@ Geographical analysis
 # Project Architecture
 
 CSV Dataset  
+
      ↓
 Data Cleaning using Pandas  
+
      ↓
-Feature Engineering
+Feature Engineering  
+
      ↓
-SQLite Database
+SQLite Database  
+
      ↓
-SQL Querying
+SQL Querying  
+
      ↓
-Streamlit Dashboard
+Streamlit Dashboard  
+
      ↓
-Business Insights
+Business Insights  
+
 
 ## Key Insights
 Certain micro-markets generate higher luxury housing revenue.  
