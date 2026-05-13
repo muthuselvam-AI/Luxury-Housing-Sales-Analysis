@@ -46,6 +46,21 @@ Booking conversion insights
 
 Geographical analysis  
 
+# Project Architecture
+
+CSV Dataset  
+     ↓
+Data Cleaning using Pandas  
+     ↓
+Feature Engineering
+     ↓
+SQLite Database
+     ↓
+SQL Querying
+     ↓
+Streamlit Dashboard
+     ↓
+Business Insights
 
 ## Key Insights
 Certain micro-markets generate higher luxury housing revenue.  
